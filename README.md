@@ -11,10 +11,7 @@
 # 📫 How to reach me:
 - EMAIL: sehmaluva@gmail.com
 - Linked in: www.linkedin.com/in/malvin-t-machingura
-# 😄 Pronouns: ...
-# ⚡ Fun facts: 
--I love hiking and photography.
--i Enjoys pentesting
+
 
 
 <!---
