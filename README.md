@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Malvin @sehmaluva
-- 👀 I’m a Software Engineering student. Passionate about machine learning, cyber security, mobile application development and web development
+# 👋 Hi, I’m Malvin
+- 👀 I’m a Software Engineer. Passionate about machine learning, cyber security, software development
 # 🌱 Skills:
 - Programing langeages: Java, Python, C++, MIPS, HTML,CSS, Visual Basic.
-- Frameworks: Flask
+- Frameworks: Flask,React,Django
 - Tools: Git, Github, Android Studio.
 # 💞️ I’m looking to collaborate on:
 - Machine learning projects
