@@ -1,16 +1,23 @@
-# 👋 Hi, I’m Malvin
-- 👀 I’m a Software Engineer. Passionate about machine learning, cyber security, software development
-# 🌱 Skills:
-- Programming languages: Java, Python, C++,JavaScript, MIPS, HTML,CSS, Visual Basic.
-- Frameworks: Flask,React,Django
-- Tools: Git, Github, Android Studio.
+# 👋 Hi, I’m Malvin (sehmaluva)
+- 👀Welcome to my GitHub profile!  
+I'm a passionate developer focused on building clean, scalable, and efficient software solutions.
+
+---
+## 🛠️ Technologies & Tools
+
+| Languages         | Frameworks & Libraries | Tools & Platforms         |
+| ----------------- | --------------------- | ------------------------ |
+| Java, Python, C++,JavaScript, MIPS, HTML,CSS, Visual Basic.       |  Flask,React,Django,Scickit_Learn, MatplotLib   | Git, Github, Android Studio.     |
+
+--- 
 # 💞️ I’m looking to collaborate on:
 - Machine learning projects
 - Responsive web applications
-- Android Application Development
+- Mobile Application Development
+---
 # 📫 How to reach me:
-- EMAIL: sehmaluva@gmail.com
-- Linked in: www.linkedin.com/in/malvin-t-machingura
+# [![Email](https://img.shields.io/badge/Email-blue?logo=gmail&style=flat-square)](mailto:sehmaluva@gmail.com)
+# [![LinkedIn ](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/malvin-t-machingura)
 
 
 
