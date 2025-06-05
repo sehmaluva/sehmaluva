@@ -7,7 +7,7 @@ I'm a passionate developer focused on building clean, scalable, and efficient so
 
 | Languages         | Frameworks & Libraries | Tools & Platforms         |
 | ----------------- | --------------------- | ------------------------ |
-| Java, Python, C++,JavaScript, MIPS, HTML,CSS, Visual Basic.       |  Flask,React,Django,Scickit_Learn, MatplotLib   | Git, Github, Android Studio.     |
+| Java, Python, C++,JavaScript, MIPS, HTML,CSS, Visual Basic.       |  Flask,React,Django,Scickit_Learn, MatplotLib   | Git, Github, Android Studio, VS Code    |
 
 --- 
 # 💞️ I’m looking to collaborate on:
