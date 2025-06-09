@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Malvin (sehmaluva)
 - 👀Welcome to my GitHub profile!  
 I'm a passionate developer focused on building clean, scalable, and efficient software solutions.
-# [My Portfolio ](https://malvint.github.io/portfolio/)
 
 ---
 ## 🛠️ Technologies & Tools
@@ -16,6 +15,7 @@ I'm a passionate developer focused on building clean, scalable, and efficient so
 - Responsive web applications
 - Mobile Application Development
 ---
+# [My Portfolio ](https://malvint.github.io/portfolio/)
 # 📫 How to reach me:
 # [![Email](https://img.shields.io/badge/Email-blue?logo=gmail&style=flat-square)](mailto:sehmaluva@gmail.com)
 # [![LinkedIn ](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/malvin-t-machingura)
