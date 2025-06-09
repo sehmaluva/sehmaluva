@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Malvin (sehmaluva)
 - 👀Welcome to my GitHub profile!  
 I'm a passionate developer focused on building clean, scalable, and efficient software solutions.
+# [My Portfolio ](https://malvint.github.io/portfolio/)
 
 ---
 ## 🛠️ Technologies & Tools
