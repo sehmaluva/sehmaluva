@@ -1,26 +1,24 @@
-# 👋 Hi, I’m Malvin (sehmaluva)
-- 👀Welcome to my GitHub profile!  
-I'm a passionate developer focused on building clean, scalable, and efficient software solutions.
+<h1 align="center">Hi, This is Malvin (sehmaluva) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
----
-## 🛠️ Technologies & Tools
+<div align="center">
+  
+![Views](https://komarev.com/ghpvc/?username=sehmaluva)
+  
+</div>
 
-| Languages         | Frameworks & Libraries | Tools & Platforms         |
-| ----------------- | --------------------- | ------------------------ |
-| Java, Python, C++,JavaScript, MIPS, HTML,CSS, Visual Basic.       |  Flask,React,Django,Scickit_Learn, MatplotLib   | Git, Github, Android Studio, VS Code    |
+<div align="center">
 
---- 
-# 💞️ I’m looking to collaborate on:
-- Machine learning projects
-- Responsive web applications
-- Mobile Application Development
----
-# [🌐My Portfolio ](https://malvint.github.io/portfolio/)
-# 📫 How to reach me:
-- [![Email ](https://img.shields.io/badge/Email-blue?logo=gmail&style=flat-square)](mailto:sehmaluva@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/malvin-t-machingura)
+![Sehmaluva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehmaluva&show_icons=true&theme=radical)
 
+## 🚀 Languages & Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehmaluva&layout=compact&theme=radical)
 
+## 📊 Contribution Graph:
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sehmaluva&theme=github)
+
+![Balton Come Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehmaluva&theme=dracula)
+
+</div>
 
 <!---
 sehmaluva/sehmaluva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
