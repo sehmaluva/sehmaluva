@@ -8,8 +8,8 @@
   <p>
     Specializing in <strong>full-stack development</strong> with expertise in building scalable web applications and AI solutions.
   </p>
-
-<h3>🛠 Core Technologies</h3>
+  
+### 🛠 Core Technologies
 <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; font-family: Arial, sans-serif; width: 100%;">
   <thead style="background-color: #f9f9f9;">
     <tr>
@@ -38,8 +38,13 @@
       <td>AI & Machine Learning</td>
       <td>LLMs, Natural Language Processing (NLP)</td>
     </tr>
+    <tr>
+      <td>Version Control</td>
+      <td>Git, GitHub</td>
+    </tr>
   </tbody>
 </table>
+
 
 
   <h3>🔭 Current Project</h3>
