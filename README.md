@@ -10,6 +10,7 @@
 ## 📊 Contribution Graph:
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sehmaluva&theme=cobalt)
 
+## 😇 Summary:
 ![Balton Come Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehmaluva&theme=algolia)
 
 </div>
