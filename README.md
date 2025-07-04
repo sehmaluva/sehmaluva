@@ -2,15 +2,15 @@
 
 <div align="center">
 
-![Sehmaluva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehmaluva&show_icons=true&theme=radical)
+![Sehmaluva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehmaluva&show_icons=true&theme=algolia)
 
 ## 🚀 Languages & Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehmaluva&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehmaluva&layout=compact&theme=algolia)
 
 ## 📊 Contribution Graph:
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sehmaluva&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sehmaluva&theme=cobalt)
 
-![Balton Come Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehmaluva&theme=dracula)
+![Balton Come Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehmaluva&theme=algolia)
 
 </div>
 
