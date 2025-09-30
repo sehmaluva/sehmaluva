@@ -67,28 +67,29 @@
 </table>
 
 <div align="center">
-
-<table border="0">
-  <tr>
-    <th style="font-size: 1.2em; padding-bottom: 10px;">GitHub Stats </th>
-    <th style="font-size: 1.2em; padding-bottom: 10px;">Top Languages </th>
-  </tr>
-  <tr>
-    <!-- GitHub Stats -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sehmaluva&show_icons=true&theme=algolia" alt="Sehmaluva's GitHub Stats">
-    </td>
-    <!-- Top Languages -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehmaluva&layout=compact&theme=algolia" alt="Top Langs">
-    </td>
-  </tr>
-</table>
-
-## 😇 Summary:
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehmaluva&theme=algolia)
-
+  <table border="0">
+    <tr>
+      <th style="font-size: 1.2em; padding-bottom: 10px;">GitHub Stats </th>
+      <th style="font-size: 1.2em; padding-bottom: 10px;">Top Languages </th>
+    </tr>
+    <tr>
+      <!-- GitHub Stats -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sehmaluva&show_icons=true&theme=algolia" alt="Sehmaluva's GitHub Stats">
+      </td>
+      <!-- Top Languages -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehmaluva&layout=compact&theme=algolia" alt="Top Langs">
+      </td>
+    </tr>
+  </table>
+  
+  ## 😇 Summary:
+  
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehmaluva&theme=algolia)
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sehmaluva&label=Vashanyi&color=000080" alt="page visitors" />
+  </p>
 </div>
 
 <!---
