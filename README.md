@@ -24,7 +24,11 @@
     </tr>
     <tr>
       <td>Backend Development</td>
-      <td>Django, Python, REST APIs</td>
+      <td>Django, Python, Java</td>
+    </tr>
+    <tr>
+      <td>Api Development</td>
+      <td>Rest, Postman, Swagger</td>
     </tr>
     <tr>
       <td>Databases</td>
@@ -41,10 +45,6 @@
     <tr>
       <td>Version Control</td>
       <td>Git, GitHub</td>
-    </tr>
-    <tr>
-      <td>Api Development</td>
-      <td>Rest, Postman, Swagger</td>
     </tr>
   </tbody>
 </table>
