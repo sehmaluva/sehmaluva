@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td>Databases</td>
-      <td>PostgreSQL, MySQL</td>
+      <td>PostgreSQL, MySQL, Mongo DB</td>
     </tr>
     <tr>
       <td>DevOps & Deployment</td>
