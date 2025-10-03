@@ -42,6 +42,10 @@
       <td>Version Control</td>
       <td>Git, GitHub</td>
     </tr>
+    <tr>
+      <td>Api Development</td>
+      <td>Rest, Postman, Swagger</td>
+    </tr>
   </tbody>
 </table>
 
