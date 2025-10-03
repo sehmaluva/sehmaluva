@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td>DevOps & Deployment</td>
-      <td>Docker, AWS</td>
+      <td>Docker, AWS, GitHub Actions</td>
     </tr>
     <tr>
       <td>AI & Machine Learning</td>
