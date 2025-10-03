@@ -27,6 +27,10 @@
       <td>Django, Python, Java</td>
     </tr>
     <tr>
+      <td>Mobile Development</td>
+      <td>Flutter, Java, React Native</td>
+    </tr>
+    <tr>
       <td>Api Development</td>
       <td>Rest, Postman, Swagger</td>
     </tr>
@@ -36,7 +40,7 @@
     </tr>
     <tr>
       <td>DevOps & Deployment</td>
-      <td>Docker</td>
+      <td>Docker, AWS</td>
     </tr>
     <tr>
       <td>AI & Machine Learning</td>
