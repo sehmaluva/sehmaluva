@@ -4,7 +4,7 @@
   <tr>
     <td valign="top" width="50%" style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-### <^-^> Software Engineer (^_^)
+### <^-^> SOFTWARE ENGINEER (^_^)
   <p>
     Specializing in <strong>full-stack development</strong> with expertise in building scalable web applications and AI solutions.
   </p>
