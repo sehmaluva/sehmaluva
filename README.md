@@ -9,7 +9,7 @@
     Specializing in <strong>full-stack development</strong> with expertise in building scalable web applications and AI solutions.
   </p>
   
-### 🛠 Core Technologies
+###  <●_●> ||CORE TECHNOLOGIES||
 <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; font-family: Arial, sans-serif; width: 100%;">
   <thead style="background-color: #f9f9f9;">
     <tr>
@@ -55,7 +55,7 @@
 
 
 
-  <h3>🔭 Current Project</h3>
+  ### {●_●} Current Project {●_●}
   <p><strong>Personal AI Assistant</strong> featuring:</p>
   <ul>
     <li>Natural language interface</li>
