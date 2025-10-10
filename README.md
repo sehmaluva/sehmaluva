@@ -55,7 +55,7 @@
 
 
 
-  ### {●_●} CURRENT PROJECT {●_●}
+  ### 🧠 CURRENT PROJECT  {●_●}
   <p><strong>Personal AI Assistant</strong> featuring:</p>
   <ul>
     <li>Natural language interface</li>
@@ -63,7 +63,7 @@
     <li>Cross-platform integration</li>
   </ul>
 
-  ### .../../ ~~**__CURRENTLY LEARNING__**~~
+  ### 🥬 CURRENTLY LEARNING 
   <ul>
     <li>Django performance optimization</li>
     <li>React advanced patterns</li>
