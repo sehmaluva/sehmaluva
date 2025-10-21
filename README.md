@@ -3,6 +3,7 @@
 <table border="0" width="100%" cellpadding="10" align="center">
   <tr>
     <td valign="top" width="50%" style="font-family: Arial, sans-serif; line-height: 1.6;">
+      
 
 ### 🛠️ SOFTWARE ENGINEER (^_^)
   <p>
@@ -95,9 +96,14 @@
   ## 😇 Summary:
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehmaluva&theme=algolia)
-  
+
 ## GitHub Trophies
+
    ![](https://github-profile-trophy.vercel.app/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+   
+## HactoberFest Badges
+
+[![An image of @sehmaluva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sehmaluva)](https://holopin.io/@sehmaluva)
    
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sehmaluva&label=Vashanyi&color=000080" alt="page visitors" />
