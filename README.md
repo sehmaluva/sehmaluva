@@ -54,23 +54,6 @@
   </tbody>
 </table>
 
-
-
-  ### 🧠 CURRENT PROJECT  {●_●}
-  <p><strong>Personal AI Assistant</strong> featuring:</p>
-  <ul>
-    <li>Natural language interface</li>
-    <li>Task automation engine</li>
-    <li>Cross-platform integration</li>
-  </ul>
-
-  ### 🥬 CURRENTLY LEARNING 
-  <ul>
-    <li>Django performance optimization</li>
-    <li>React advanced patterns</li>
-    <li>AI algorithms and functionality</li>
-  </ul>
-
 </td>
   </tr>
 </table>
