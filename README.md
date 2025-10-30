@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Malvin (sehmaluva) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-### `Title:` `SOFTWARE ENGINEER 🪖 `
+# `Title:` `SOFTWARE ENGINEER 🪖 `
 <table border="0" width="100%" cellpadding="10" align="center">
   <tr>
     <td valign="top" width="50%" style="font-family: Arial, sans-serif; line-height: 1.6;">
