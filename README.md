@@ -55,6 +55,8 @@
   </tr>
 </table>
 
+  </p>
+</div>
 ## HactoberFest Badges
 
 [![An image of @sehmaluva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sehmaluva)](https://holopin.io/@sehmaluva)
@@ -63,8 +65,6 @@
 
    ![](https://github-profile-trophy.vercel.app/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
    
-  </p>
-</div>
 <div align="center">
   <table border="0">
     <tr>
