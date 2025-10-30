@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Malvin (sehmaluva) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
+### `Title:` `SOFTWARE ENGINEER 🪖 `
 <table border="0" width="100%" cellpadding="10" align="center">
   <tr>
     <td valign="top" width="50%" style="font-family: Arial, sans-serif; line-height: 1.6;">
       
 
-### `Title:` `Software Engineer`
-  
+<!-- 
 ###  `Tech Stack`
 <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; font-family: Arial, sans-serif; width: 100%;">
   <thead style="background-color: #f9f9f9;">
@@ -57,7 +57,7 @@
 
   </p>
 </div>
-
+--->
 
 <div align="center">
 
@@ -78,18 +78,18 @@
     </tr>
   </table>
   
-  ## HactoberFest Badges
-  
-  [![An image of @sehmaluva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sehmaluva)](https://holopin.io/@sehmaluva)
-  
   ## My Trophies
   
   ![](https://github-profile-trophy.vercel.app/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
   
+  ## HactoberFest Badges
+  
+  [![An image of @sehmaluva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sehmaluva)](https://holopin.io/@sehmaluva)
+ <!--  
   ## 😇 Summary:
     
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehmaluva&theme=algolia)
-
+--->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sehmaluva&label=Vashanyi&color=000080" alt="page visitors" />
   </p>
