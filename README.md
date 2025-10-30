@@ -62,7 +62,6 @@
 <div align="center">
 
   <table border="0">
-
     <tr>
       <th style="font-size: 1.2em; padding-bottom: 10px;">GitHub Stats </th>
       <th style="font-size: 1.2em; padding-bottom: 10px;">Top Languages </th>
@@ -79,21 +78,23 @@
     </tr>
   </table>
   
-## HactoberFest Badges
-
-[![An image of @sehmaluva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sehmaluva)](https://holopin.io/@sehmaluva)
-
-## My Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-## 😇 Summary:
+  ## HactoberFest Badges
   
+  [![An image of @sehmaluva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sehmaluva)](https://holopin.io/@sehmaluva)
+  
+  ## My Trophies
+  
+  ![](https://github-profile-trophy.vercel.app/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+  
+  ## 😇 Summary:
+    
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sehmaluva&theme=algolia)
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sehmaluva&label=Vashanyi&color=000080" alt="page visitors" />
-
+  </p>
+  
+  </div>
 
 <!---
 sehmaluva/sehmaluva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
