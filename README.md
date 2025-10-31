@@ -6,7 +6,7 @@
     <td valign="top" width="50%" style="font-family: Arial, sans-serif; line-height: 1.6;">
       
 
-<!-- 
+
 ###  `Tech Stack`
 <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; font-family: Arial, sans-serif; width: 100%;">
   <thead style="background-color: #f9f9f9;">
@@ -57,7 +57,7 @@
 
   </p>
 </div>
---->
+
 
 <div align="center">
 
