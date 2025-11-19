@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Malvin (sehmaluva) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 # `Title:` `SOFTWARE ENGINEER 🪖 `
-----> Engineer by profession... Bug Hunter by hobby.... Problem solver by Hert, 
+## Engineer by profession 🪖 Bug Hunter by Hobby 🤾‍♂️ Problem solver by Heart ❤️
+
 <table border="0" width="100%" cellpadding="10" align="center">
   <tr>
     <td valign="top" width="50%" style="font-family: Arial, sans-serif; line-height: 1.6;">
