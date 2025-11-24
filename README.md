@@ -79,7 +79,7 @@
   
   ## My Trophies
   
-  ![](https://github-profile-trophy.vercel.app/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://trophies.sehmaluva.me/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
   
   ## HactoberFest Badges
   
