@@ -72,7 +72,7 @@
       </td>
       <!-- Top Languages -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehmaluva&layout=compact&theme=algolia" alt="Top Langs">
+        <img src="https://stats.sehmaluva.me/api/top-langs/?username=sehmaluva&layout=compact&theme=algolia" alt="Top Langs">
       </td>
     </tr>
   </table>
