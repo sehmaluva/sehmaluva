@@ -68,7 +68,7 @@
     <tr>
       <!-- GitHub Stats -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sehmaluva&show_icons=true&theme=algolia" alt="Sehmaluva's GitHub Stats">
+        <img src="https://stats.sehmaluva.me/api?username=sehmaluva&show_icons=true&theme=algolia" alt="Sehmaluva's GitHub Stats">
       </td>
       <!-- Top Languages -->
       <td>
