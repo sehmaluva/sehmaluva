@@ -59,7 +59,8 @@
 </div>
 
 <div align="center">
-
+  
+## Github Stats
   <table border="0">
     <tr>
       <th style="font-size: 1.2em; padding-bottom: 10px;">GitHub Stats </th>
