@@ -18,35 +18,64 @@
   <tbody>
     <tr>
       <td>Frontend Development</td>
-      <td>React, TypeScript</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      </td>
     </tr>
     <tr>
       <td>Backend Development</td>
-      <td>Django, Python, Java</td>
+      <td>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      </td>
     </tr>
     <tr>
       <td>Mobile Development</td>
-      <td>Flutter, Java, React Native</td>
+      <td>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+      </td>
     </tr>
     <tr>
       <td>Api Development</td>
-      <td>Rest, Postman, Swagger</td>
+      <td>
+        <img src="https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=rest&logoColor=white" alt="REST" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+      </td>
     </tr>
     <tr>
       <td>Databases</td>
-      <td>PostgreSQL, MySQL, Mongo DB</td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </td>
     </tr>
     <tr>
       <td>DevOps & Deployment</td>
-      <td>Docker, AWS, GitHub Actions</td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      </td>
     </tr>
     <tr>
       <td>AI & Machine Learning</td>
-      <td>LLMs, Natural Language Processing (NLP)</td>
+      <td>
+        <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NLP" />
+      </td>
     </tr>
     <tr>
       <td>Version Control</td>
-      <td>Git, GitHub</td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </td>
     </tr>
   </tbody>
 </table>
