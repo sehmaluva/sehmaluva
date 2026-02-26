@@ -29,6 +29,7 @@
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust"/>
       </td>
     </tr>
     <tr>
@@ -42,7 +43,7 @@
     <tr>
       <td>Api Development</td>
       <td>
-        <img src="https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=rest&logoColor=white" alt="REST" />
+        <img src="https://img.shields.io/badge/REST-API-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST API" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
       </td>
