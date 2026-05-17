@@ -107,11 +107,29 @@
       </td>
     </tr>
   </table>
-  
+    
   ## My Trophies
-  
-  ![](https://trophies.sehmaluva.me/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-  
+
+<picture>
+  <!-- Dark mode -->
+  <source
+    srcset="https://trophies.sehmaluva.me/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4&column=5"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <!-- Light mode -->
+  <source
+    srcset="https://trophies.sehmaluva.me/?username=sehmaluva&theme=flat&no-frame=false&no-bg=true&margin-w=4&column=5"
+    media="(prefers-color-scheme: light)"
+  />
+
+  <!-- Fallback -->
+  <img
+    src="https://trophies.sehmaluva.me/?username=sehmaluva&theme=flat&no-frame=false&no-bg=true&margin-w=4&column=5"
+    alt="GitHub Trophies"
+  />
+</picture>
+    
   ## HactoberFest Badges
   
   [![An image of @sehmaluva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sehmaluva)](https://holopin.io/@sehmaluva)
