@@ -111,21 +111,9 @@
   ## My Trophies
 
 <picture>
-  <!-- Dark mode -->
-  <source
-    srcset="https://trophies.sehmaluva.me/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4&column=5"
-    media="(prefers-color-scheme: dark)"
-  />
-
-  <!-- Light mode -->
-  <source
-    srcset="https://trophies.sehmaluva.me/?username=sehmaluva&theme=flat&no-frame=false&no-bg=true&margin-w=4&column=5"
-    media="(prefers-color-scheme: light)"
-  />
-
   <!-- Fallback -->
   <img
-    src="https://trophies.sehmaluva.me/?username=sehmaluva&theme=flat&no-frame=false&no-bg=true&margin-w=4&column=5"
+    src="https://trophies.sehmaluva.me/?username=sehmaluva&theme=dracula&no-frame=false&no-bg=true&margin-w=4&column=5"
     alt="GitHub Trophies"
   />
 </picture>
