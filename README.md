@@ -1,8 +1,12 @@
 <h1 align="center">Hi, I'm Malvin (sehmaluva) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-# `Title:` `SOFTWARE ENGINEER 🪖`
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Malvin+Sehmaluva;Software+Engineer;Full-Stack+Developer;Building+for+Low-Resource+Languages;Shona+NLP+%26+AI+Research" alt="Typing SVG" />
+</div>
+<!---
+?# `Title:` `SOFTWARE ENGINEER 🪖`
 ## Engineer by profession 🪖 Bug Hunter by Hobby 🤾‍♂️ Problem solver by Heart ❤️
-
+--->
 <table border="0" width="100%" cellpadding="10" align="center">
   <tr>
     <td valign="top" width="50%" style="font-family: Arial, sans-serif; line-height: 1.6;">
